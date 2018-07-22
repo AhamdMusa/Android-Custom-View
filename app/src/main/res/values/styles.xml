@@ -8,4 +8,16 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="GreenText" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">#1b5e20</item>
+        <item name="android:textSize">30dp</item>
+        <item name="android:textAppearance">arial</item>
+    </style>
+
+    <style name="BlueText" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">#1b5e20</item>
+        <item name="android:textSize">30dp</item>
+        <item name="android:textAppearance">arial</item>
+    </style>
+
 </resources>
